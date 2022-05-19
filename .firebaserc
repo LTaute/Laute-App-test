@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "laute-holdings"
+  },
+  "targets": {
+    "laute-holdings": {
+      "hosting": {
+        "laute-app": [
+          "laute-holdings"
+        ]
+      }
+    }
+  }
+}
